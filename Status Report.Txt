@@ -1,0 +1,10 @@
+Output: Export IDF
+Type  : ExportIDF
+From  : PCB Document [daugtherboardFunkySwitch.PcbDoc]
+   Generated File[daugtherboardFunkySwitch.brd]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:41:45 On 04.07.2021

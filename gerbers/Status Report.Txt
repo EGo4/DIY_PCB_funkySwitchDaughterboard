@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [daugtherboardFunkySwitch.PcbDoc]
+   Generated File[daugtherboardFunkySwitch.TXT]
+   Generated File[daugtherboardFunkySwitch.LDP]
+   Generated File[daugtherboardFunkySwitch.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:10:18 On 26.07.2021
